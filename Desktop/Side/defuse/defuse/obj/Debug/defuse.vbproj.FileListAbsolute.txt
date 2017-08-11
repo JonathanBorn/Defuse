@@ -1,0 +1,11 @@
+C:\Users\cameron.boutilier\Desktop\Side\defuse\defuse\bin\Debug\defuse.exe.config
+C:\Users\cameron.boutilier\Desktop\Side\defuse\defuse\bin\Debug\defuse.exe
+C:\Users\cameron.boutilier\Desktop\Side\defuse\defuse\bin\Debug\defuse.pdb
+C:\Users\cameron.boutilier\Desktop\Side\defuse\defuse\bin\Debug\defuse.xml
+C:\Users\cameron.boutilier\Desktop\Side\defuse\defuse\obj\Debug\defuse.vbprojResolveAssemblyReference.cache
+C:\Users\cameron.boutilier\Desktop\Side\defuse\defuse\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\cameron.boutilier\Desktop\Side\defuse\defuse\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\cameron.boutilier\Desktop\Side\defuse\defuse\obj\Debug\defuse.vbproj.GenerateResource.Cache
+C:\Users\cameron.boutilier\Desktop\Side\defuse\defuse\obj\Debug\defuse.exe
+C:\Users\cameron.boutilier\Desktop\Side\defuse\defuse\obj\Debug\defuse.xml
+C:\Users\cameron.boutilier\Desktop\Side\defuse\defuse\obj\Debug\defuse.pdb
